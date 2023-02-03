@@ -1,1 +1,4 @@
 # Unix-and-C-Projects
+The Snakes and Apples game is a basic implementation of a classic snake game with added features. The objective of the game is to control the movement of the snake, which should eat the apples to grow longer. As the snake eats more apples, its length increases, making it harder to maneuver.
+
+The game ends when the snake runs into the border of the play area or its own body. The player must navigate the snake through the play area and avoid hitting the border or its own body in order to keep playing. However, if the player enters the correct command-line argument (CLA), the snake enters invincible mode, where it can pass through the border and its own body without ending the game.
